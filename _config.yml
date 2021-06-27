@@ -101,9 +101,8 @@ content:
       - layout: left
         title: Link Consulting
         link: link.pt
-        quote: >
-          Apr 2001 - Oct 2003 | Consultant
         description: | # this will include new lines to allow paragraphs
+          ## Apr 2001 - Oct 2003 | Consultant
           * Worked on B2B marketplaces, extending base Ariba (JEE based) funcionalities;
           * Migration of some vodafone.pt portals (Vizzavi, Yorn) - Vignette, Oracle, Solaris
           * Designed and started development of ticket management project for Otlis
