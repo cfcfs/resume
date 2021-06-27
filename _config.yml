@@ -62,22 +62,24 @@ content:
           Build digital touch-points for Daimler / Mercedes-Benz
         description: | # this will include new lines to allow paragraphs
           ## May 2021 - Present | Head of Engineering
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla maximus nec odio ut vestibulum. Suspendisse ut sem rutrum, volutpat massa eu, semper lorem. Sed laoreet, ante sed ultrices laoreet, sem felis laoreet nisl, ut pellentesque nisl diam id urna. Nunc suscipit risus quis nibh tincidunt, id volutpat mauris lobortis.  
+          Working on the ...  
 
           <br/>
 
           ## Jan 2020 - Dec 2019 | Program Tech Lead
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla maximus nec odio ut vestibulum. Suspendisse ut sem rutrum, volutpat massa eu, semper lorem. Sed laoreet, ante sed ultrices laoreet, sem felis laoreet nisl, ut pellentesque nisl diam id urna. Nunc suscipit risus qukis nibh tincidunt, id volutpat mauris lobortis.  
+          As a member of the architecture board, defined a target architecture to allow unifying and scalling the marketing and sales platforms  
 
           <br/>
 
           ## Jan 2019 - Dec 2019 | Software Architect
-          Concept, model and implementation support of a vehicle model overview component included in the landing page of all Mercedes-Benz websites.
+          Concept, model and implementation support of a vehicle model overview component included in the landing page of all Mercedes-Benz websites  
+          Supported the adoption of new practices for microservices development in several products, eg Kotlin as the core language, reactive patterns, trunk based development, ...  
+
 
           <br/>
 
           ## Sep 2017 - Dec 2018 | Software Engineer
-          Refactoring of a vehicle data microservice to allow rule based configurations, highly reducing the ammount of maintenance work and time to reflect upstream changes
+          Refactoring of a vehicle data microservice to allow rule based configurations, highly reducing the ammount of maintenance work and time to reflect upstream changes  
 
 
       - layout: left
@@ -104,9 +106,9 @@ content:
         link: link.pt
         description: | # this will include new lines to allow paragraphs
           ## Apr 2001 - Oct 2003 | Consultant
-          Worked on B2B marketplaces, extending base Ariba (JEE based) funcionalities;  
+          Development of B2B marketplaces, extending base Ariba (JEE based) funcionalities  
           Migration of some vodafone.pt portals (Vizzavi, Yorn) - Vignette, Oracle, Solaris  
-          Designed and started development of ticket management project for Otlis  
+          Designed and bootstraped development of urban travel ticket management project for Otlis (transport operators consortium)  
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
