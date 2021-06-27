@@ -67,17 +67,17 @@ content:
           <br/>
 
           ## Jan 2020 - Dec 2019 | Program Tech Lead
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla maximus nec odio ut vestibulum. Suspendisse ut sem rutrum, volutpat massa eu, semper lorem. Sed laoreet, ante sed ultrices laoreet, sem felis laoreet nisl, ut pellentesque nisl diam id urna. Nunc suscipit risus quis nibh tincidunt, id volutpat mauris lobortis.  
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla maximus nec odio ut vestibulum. Suspendisse ut sem rutrum, volutpat massa eu, semper lorem. Sed laoreet, ante sed ultrices laoreet, sem felis laoreet nisl, ut pellentesque nisl diam id urna. Nunc suscipit risus qukis nibh tincidunt, id volutpat mauris lobortis.  
 
           <br/>
 
           ## Jan 2019 - Dec 2019 | Software Architect
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla maximus nec odio ut vestibulum. Suspendisse ut sem rutrum, volutpat massa eu, semper lorem. Sed laoreet, ante sed ultrices laoreet, sem felis laoreet nisl, ut pellentesque nisl diam id urna. Nunc suscipit risus quis nibh tincidunt, id volutpat mauris lobortis.  
+          Concept, model and implementation support of a vehicle model overview component included in the landing page of all Mercedes-Benz websites.
 
           <br/>
 
           ## Sep 2017 - Dec 2018 | Software Engineer
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla maximus nec odio ut vestibulum. Suspendisse ut sem rutrum, volutpat massa eu, semper lorem. Sed laoreet, ante sed ultrices laoreet, sem felis laoreet nisl, ut pellentesque nisl diam id urna. Nunc suscipit risus quis nibh tincidunt, id volutpat mauris lobortis.  
+          Refactoring of a vehicle data microservice to allow rule based configurations, highly reducing the ammount of maintenance work and time to reflect upstream changes
 
 
       - layout: left
