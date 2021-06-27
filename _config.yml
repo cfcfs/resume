@@ -76,24 +76,16 @@ content:
       - layout: left
         title: Caixa Geral de Depósitos
         link: cgd.pt
-        sub_title: Team Manager
-        caption: Jan 2011 - Sep 2017
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
+          ## Jan 2011 - Sep 2017 | Team Manager
           * Refactored environment for Integration development: maven, nexus, jenkins, gitlab
           * Built configuration and deployment pipeline based on jenkins, nexus, gitlab, ansible and wsadmin
           * Created tool for integration services *provisioning* and management - django, angular, x3270
           * Replaced code generation tool for mainframe based services - antlr, python, jinja2
 
-      - layout: left
-        title: Caixa Geral de Depósitos
-        link: cgd.pt
-        sub_title: Software Engineer
-        caption: Oct 2003 - Dec 2010
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
+          ## Oct 2003 - Dec 2010 | Software Engineer
           * Inception and development of SOA middleware platform supporting business applications (home banking, mobile apps, branch application, BPMS, ...) - JEE, WebServices
           * Development of code generation tools for legacy systems JCA access - CICS, SAP/R3
           * *Ressurection* of operational BPM platform (JEE based) - technical upgrade, code refactoring and change of development methodologies towards continuous integration
@@ -103,9 +95,9 @@ content:
         link: link.pt
         description: | # this will include new lines to allow paragraphs
           ## Apr 2001 - Oct 2003 | Consultant
-          * Worked on B2B marketplaces, extending base Ariba (JEE based) funcionalities;
-          * Migration of some vodafone.pt portals (Vizzavi, Yorn) - Vignette, Oracle, Solaris
-          * Designed and started development of ticket management project for Otlis
+          Worked on B2B marketplaces, extending base Ariba (JEE based) funcionalities;
+          Migration of some vodafone.pt portals (Vizzavi, Yorn) - Vignette, Oracle, Solaris
+          Designed and started development of ticket management project for Otlis
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
