@@ -85,6 +85,12 @@ content:
           * Built configuration and deployment pipeline based on jenkins, nexus, gitlab, ansible and wsadmin
           * Created tool for integration services *provisioning* and management - django, angular, x3270
           * Replaced code generation tool for mainframe based services - antlr, python, jinja2
+
+      - layout: left
+        title: Caixa Geral de Depósitos
+        link: cgd.pt
+        sub_title: Software Engineer
+        caption: Oct 2003 - Dec 2010
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
