@@ -59,29 +59,30 @@ content:
         title: mercedes-benz.io
         link: mercedes-benz.io
         quote: >
-          Building digital touch-points for Mercedes-Benz
+          Building a digital marketing and sales channel for Mercedes-Benz
         description: | # this will include new lines to allow paragraphs
           <br/>
 
           ## May 2021 - Present | Head of Engineering
-          Working on the ...  
+          Working on the recruitment, enablement and practices definiton of technical roles  
 
           <br/>
 
-          ## Jan 2020 - Dec 2019 | Program Tech Lead
-          As a member of the architecture board, defined a target architecture to allow unifying and scalling the marketing and sales platforms  
+          ## Jan 2020 - May 2021 | Program Tech Lead
+          Worked, as a member of the architecture board, in defining a target architecture to allow unifying and scalling the marketing and sales platforms  
+          Supported the recruitment process for tech roles and the definition of new roles
 
           <br/>
 
           ## Jan 2019 - Dec 2019 | Software Architect
-          Concept, model and implementation support of a vehicle model overview component included in the landing page of all Mercedes-Benz websites  
-          Supported the adoption of new practices for microservices development in several products, eg Kotlin as the core language, reactive patterns, trunk based development, ...  
+          Designed the architecture and supported the implementation of a vehicle overview component included in the landing page of all Mercedes-Benz websites  
+          Enabled the adoption of new practices for microservices development in several products, eg Kotlin as the core language, reactive patterns, trunk based development  
 
 
           <br/>
 
           ## Sep 2017 - Dec 2018 | Software Engineer
-          Refactoring of a vehicle data microservice to allow rule based configurations, highly reducing the ammount of maintenance work and time to reflect upstream changes  
+          Refactored a central data microservice to allow rule based configurations, highly reducing the ammount of maintenance work and time to reflect upstream changes  
 
 
       - layout: left
@@ -93,17 +94,18 @@ content:
           <br/>
 
           ## Jan 2011 - Sep 2017 | Team Manager
-          Refactored environment for Integration development: maven, nexus, jenkins, gitlab  
-          Built configuration and deployment pipeline based on jenkins, nexus, gitlab, ansible and wsadmin  
-          Created tool for integration services *provisioning* and management - django, angular, x3270  
-          Replaced code generation tool for mainframe based services - antlr, python, jinja2  
+          Refactored development and CI/CD toolchain for the Integration team using maven, nexus, jenkins and gitlab  
+          Built a configuration management pipeline using git, ansible and wsadmin to allow a reproduceable and consistent infra-structure  
+          Built a deployment pipeline to allow blue-green deployments, highly increasing the frequency of deployments  
+          Steered the creation of a provisioning portal for integration services, while automating some of the boilerplate tasks, using django, angular and x3270  
+          Replaced legacy code generation tool for mainframe based services to improve maintainability, using antlr, python and jinja2  
 
           <br/>
 
           ## Oct 2003 - Dec 2010 | Software Engineer
-          Inception and development of SOA middleware platform supporting business applications (home banking, mobile apps, branch application, BPMS, ...) - JEE, WebServices  
-          Development of code generation tools for legacy systems JCA access - CICS, SAP/R3  
-          *Ressurection* of operational BPM platform (JEE based) - technical upgrade, code refactoring and change of development methodologies towards continuous integration  
+          Worked as part of the Integration team in designing and developing a SOA middleware platform supporting business applications (home banking, mobile apps, front office), based on JEE and WebServices  
+          Developed code generation tools for legacy systems (CICS, SAP/R3) JCA access  
+          Led the transformation (refactoring, development methodologies, team setup) of a BPM Platform with critical stability and maintainability issues, allowing new processes to be devoloped on top  
 
       - layout: left
         title: Link Consulting
