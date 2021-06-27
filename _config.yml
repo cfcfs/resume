@@ -56,6 +56,24 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: mercedes-benz.io
+        link: mercedes-benz.io
+        sub_title: Software Engineer
+        caption: Sep 2017 - 
+        quote: >
+          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+          Program Tech Lead
+          Dates Employed Jan 2020 – Present
+          Employment Duration 1 yr 6 mos
+          Title Software Architect
+          Dates Employed Jan 2019 – Present
+          Employment Duration 2 yrs 6 mos
+          Title Software Engineer
+          Dates Employed Sep 2017 – Present
+          Employment Duration 3 yrs 10 mos
+
+      - layout: left
         title: Caixa Geral de Depósitos
         link: cgd.pt
         sub_title: Team Manager
@@ -67,12 +85,6 @@ content:
           * Built configuration and deployment pipeline based on jenkins, nexus, gitlab, ansible and wsadmin
           * Created tool for integration services *provisioning* and management - django, angular, x3270
           * Replaced code generation tool for mainframe based services - antlr, python, jinja2
-
-      - layout: left
-        title: Caixa Geral de Depósitos
-        link: cgd.pt
-        sub_title: Software Engineer
-        caption: Oct 2003 - Dec 2010
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
@@ -83,10 +95,8 @@ content:
       - layout: left
         title: Link Consulting
         link: link.pt
-        sub_title: Consultant
-        caption: Apr 2001 - Oct 2003
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          Apr 2001 - Oct 2003 | Consultant
         description: | # this will include new lines to allow paragraphs
           * Worked on B2B marketplaces, extending base Ariba (JEE based) funcionalities;
           * Migration of some vodafone.pt portals (Vizzavi, Yorn) - Vignette, Oracle, Solaris
