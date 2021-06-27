@@ -58,16 +58,23 @@ content:
       - layout: left
         title: mercedes-benz.io
         link: mercedes-benz.io
-        sub_title: Software Engineer
-        caption: Sep 2017 - 
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
+          ## May 2021 - Present | Head of Engineering
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla maximus nec odio ut vestibulum. Suspendisse ut sem rutrum, volutpat massa eu, semper lorem. Sed laoreet, ante sed ultrices laoreet, sem felis laoreet nisl, ut pellentesque nisl diam id urna. Nunc suscipit risus quis nibh tincidunt, id volutpat mauris lobortis.  
+
+          <br/>
+
           ## xxx | Program Tech Lead
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla maximus nec odio ut vestibulum. Suspendisse ut sem rutrum, volutpat massa eu, semper lorem. Sed laoreet, ante sed ultrices laoreet, sem felis laoreet nisl, ut pellentesque nisl diam id urna. Nunc suscipit risus quis nibh tincidunt, id volutpat mauris lobortis.  
 
+          <br/>
+
           ## xxx | Software Architect
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla maximus nec odio ut vestibulum. Suspendisse ut sem rutrum, volutpat massa eu, semper lorem. Sed laoreet, ante sed ultrices laoreet, sem felis laoreet nisl, ut pellentesque nisl diam id urna. Nunc suscipit risus quis nibh tincidunt, id volutpat mauris lobortis.  
+
+          <br/>
 
           ## xxx | Software Engineer
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla maximus nec odio ut vestibulum. Suspendisse ut sem rutrum, volutpat massa eu, semper lorem. Sed laoreet, ante sed ultrices laoreet, sem felis laoreet nisl, ut pellentesque nisl diam id urna. Nunc suscipit risus quis nibh tincidunt, id volutpat mauris lobortis.  
@@ -84,7 +91,8 @@ content:
           Built configuration and deployment pipeline based on jenkins, nexus, gitlab, ansible and wsadmin  
           Created tool for integration services *provisioning* and management - django, angular, x3270  
           Replaced code generation tool for mainframe based services - antlr, python, jinja2  
-            
+
+          <br/>
 
           ## Oct 2003 - Dec 2010 | Software Engineer
           Inception and development of SOA middleware platform supporting business applications (home banking, mobile apps, branch application, BPMS, ...) - JEE, WebServices  
