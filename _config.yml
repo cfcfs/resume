@@ -63,15 +63,15 @@ content:
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          Program Tech Lead
-          Dates Employed Jan 2020 – Present
-          Employment Duration 1 yr 6 mos
-          Title Software Architect
-          Dates Employed Jan 2019 – Present
-          Employment Duration 2 yrs 6 mos
-          Title Software Engineer
-          Dates Employed Sep 2017 – Present
-          Employment Duration 3 yrs 10 mos
+          ## xxx | Program Tech Lead
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla maximus nec odio ut vestibulum. Suspendisse ut sem rutrum, volutpat massa eu, semper lorem. Sed laoreet, ante sed ultrices laoreet, sem felis laoreet nisl, ut pellentesque nisl diam id urna. Nunc suscipit risus quis nibh tincidunt, id volutpat mauris lobortis.  
+
+          ## xxx | Software Architect
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla maximus nec odio ut vestibulum. Suspendisse ut sem rutrum, volutpat massa eu, semper lorem. Sed laoreet, ante sed ultrices laoreet, sem felis laoreet nisl, ut pellentesque nisl diam id urna. Nunc suscipit risus quis nibh tincidunt, id volutpat mauris lobortis.  
+
+          ## xxx | Software Engineer
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla maximus nec odio ut vestibulum. Suspendisse ut sem rutrum, volutpat massa eu, semper lorem. Sed laoreet, ante sed ultrices laoreet, sem felis laoreet nisl, ut pellentesque nisl diam id urna. Nunc suscipit risus quis nibh tincidunt, id volutpat mauris lobortis.  
+
 
       - layout: left
         title: Caixa Geral de Depósitos
@@ -80,16 +80,16 @@ content:
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
           ## Jan 2011 - Sep 2017 | Team Manager
-          * Refactored environment for Integration development: maven, nexus, jenkins, gitlab
-          * Built configuration and deployment pipeline based on jenkins, nexus, gitlab, ansible and wsadmin
-          * Created tool for integration services *provisioning* and management - django, angular, x3270
-          * Replaced code generation tool for mainframe based services - antlr, python, jinja2
+          Refactored environment for Integration development: maven, nexus, jenkins, gitlab  
+          Built configuration and deployment pipeline based on jenkins, nexus, gitlab, ansible and wsadmin  
+          Created tool for integration services *provisioning* and management - django, angular, x3270  
+          Replaced code generation tool for mainframe based services - antlr, python, jinja2  
             
 
           ## Oct 2003 - Dec 2010 | Software Engineer
-          * Inception and development of SOA middleware platform supporting business applications (home banking, mobile apps, branch application, BPMS, ...) - JEE, WebServices
-          * Development of code generation tools for legacy systems JCA access - CICS, SAP/R3
-          * *Ressurection* of operational BPM platform (JEE based) - technical upgrade, code refactoring and change of development methodologies towards continuous integration
+          Inception and development of SOA middleware platform supporting business applications (home banking, mobile apps, branch application, BPMS, ...) - JEE, WebServices  
+          Development of code generation tools for legacy systems JCA access - CICS, SAP/R3  
+          *Ressurection* of operational BPM platform (JEE based) - technical upgrade, code refactoring and change of development methodologies towards continuous integration  
 
       - layout: left
         title: Link Consulting
