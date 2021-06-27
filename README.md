@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+# Carlos Ré
+## Software Engineer
 
-You can use the [editor on GitHub](https://github.com/cfcfs/resume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+carlos.santos.re@gmail.com
++351 965 803 469
+Rua 10, n 14, Bairro Alto da Ajuda
+1300-174 Lisboa
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+----
 
-### Jekyll Themes
+### Personal summary
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cfcfs/resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Software engineer with 15 years of experience. Interested in challenging problems and broading technical knowledge.
 
-### Support or Contact
+### Education 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- M.Sc. Information Systems and Computer Engineering (1995-2001), Instituto Superior Técnico, Lisbon
+
+### Technical
+
+- Languages: Java, Python, C
+
+### Employment 
+
+##### 2011: Team Manager, Caixa Geral de Depósitos
+  * Refactored environment for Integration development: maven, nexus, jenkins, gitlab
+  * Built configuration and deployment pipeline based on jenkins, nexus, gitlab, ansible and wsadmin
+  * Created tool for integration services *provisioning* and management - django, angular, x3270
+  * Replaced code generation tool for mainframe based services - antlr, python, jinja2
+
+##### 2003: Software Engineer, Caixa Geral de Depósitos
+  * Inception and development of SOA middleware platform supporting business applications (home banking, mobile apps, branch application, BPMS, ...) - JEE, WebServices
+  * Development of code generation tools for legacy systems JCA access - CICS, SAP/R3
+  * *Ressurection* of operational BPM platform (JEE based) - technical upgrade, code refactoring and change of development methodologies towards continuous integration
+
+##### 2001: Consultant, Link Consulting
+  * Worked on B2B marketplaces, extending base Ariba (JEE based) funcionalities;
+  * Migration of some vodafone.pt portals (Vizzavi, Yorn) - Vignette, Oracle, Solaris
+  * Designed and started development of ticket management project for Otlis
+ 
+
+### References
+
+Available on request.
+
