@@ -59,8 +59,10 @@ content:
         title: mercedes-benz.io
         link: mercedes-benz.io
         quote: >
-          Build digital touch-points for Daimler / Mercedes-Benz
+          Building digital touch-points for Mercedes-Benz
         description: | # this will include new lines to allow paragraphs
+          <br/>
+
           ## May 2021 - Present | Head of Engineering
           Working on the ...  
 
@@ -86,8 +88,10 @@ content:
         title: Caixa Geral de Depósitos
         link: cgd.pt
         quote: >
-          Development and operations of a highly available, mission critical integration layer around core bank systems
+          Developing and operating of a highly available, mission critical integration layer around core bank systems
         description: | # this will include new lines to allow paragraphs
+          <br/>
+
           ## Jan 2011 - Sep 2017 | Team Manager
           Refactored environment for Integration development: maven, nexus, jenkins, gitlab  
           Built configuration and deployment pipeline based on jenkins, nexus, gitlab, ansible and wsadmin  
