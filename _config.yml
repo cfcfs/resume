@@ -59,24 +59,24 @@ content:
         title: mercedes-benz.io
         link: mercedes-benz.io
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          Build digital touch-points for Daimler / Mercedes-Benz
         description: | # this will include new lines to allow paragraphs
           ## May 2021 - Present | Head of Engineering
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla maximus nec odio ut vestibulum. Suspendisse ut sem rutrum, volutpat massa eu, semper lorem. Sed laoreet, ante sed ultrices laoreet, sem felis laoreet nisl, ut pellentesque nisl diam id urna. Nunc suscipit risus quis nibh tincidunt, id volutpat mauris lobortis.  
 
           <br/>
 
-          ## xxx | Program Tech Lead
+          ## Jan 2020 - Dec 2019 | Program Tech Lead
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla maximus nec odio ut vestibulum. Suspendisse ut sem rutrum, volutpat massa eu, semper lorem. Sed laoreet, ante sed ultrices laoreet, sem felis laoreet nisl, ut pellentesque nisl diam id urna. Nunc suscipit risus quis nibh tincidunt, id volutpat mauris lobortis.  
 
           <br/>
 
-          ## xxx | Software Architect
+          ## Jan 2019 - Dec 2019 | Software Architect
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla maximus nec odio ut vestibulum. Suspendisse ut sem rutrum, volutpat massa eu, semper lorem. Sed laoreet, ante sed ultrices laoreet, sem felis laoreet nisl, ut pellentesque nisl diam id urna. Nunc suscipit risus quis nibh tincidunt, id volutpat mauris lobortis.  
 
           <br/>
 
-          ## xxx | Software Engineer
+          ## Sep 2017 - Dec 2018 | Software Engineer
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla maximus nec odio ut vestibulum. Suspendisse ut sem rutrum, volutpat massa eu, semper lorem. Sed laoreet, ante sed ultrices laoreet, sem felis laoreet nisl, ut pellentesque nisl diam id urna. Nunc suscipit risus quis nibh tincidunt, id volutpat mauris lobortis.  
 
 
@@ -84,7 +84,7 @@ content:
         title: Caixa Geral de Depósitos
         link: cgd.pt
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          Development and operations of a highly available, mission critical integration layer around core bank systems
         description: | # this will include new lines to allow paragraphs
           ## Jan 2011 - Sep 2017 | Team Manager
           Refactored environment for Integration development: maven, nexus, jenkins, gitlab  
