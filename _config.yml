@@ -48,7 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Software engineer with 20 years of experience in building scalable and resilient systems  
+  Hi, my name's Carlos and I'm a software engineer. I've accumulted some experience in building scalable and resilient systems, from architecture to development and operations. 
+
+  I have also experience in leading teams, seting up processes and developing a healthy engineering culture.
 
 
 content:
