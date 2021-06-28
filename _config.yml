@@ -73,6 +73,8 @@ content:
           ## Sep 2017 - Dec 2018 | Software Engineer
           Refactored a central data microservice to allow rule based configurations, highly reducing the amount of maintenance work and time to reflect upstream changes  
 
+          <br/>
+
 
       - layout: top-middle
         title: Caixa Geral de Depósitos
@@ -101,6 +103,8 @@ content:
 
           Led the transformation (refactoring, development methodologies, team setup) of a BPM Platform with critical stability and maintainability issues, allowing new processes to be developed on top  
 
+          <br/>
+
       - layout: top-middle
         title: Link Consulting
         description: | # this will include new lines to allow paragraphs
@@ -110,6 +114,8 @@ content:
           Worked on the migration of some vodafone.pt portals (Vizzavi, Yorn) - Vignette, Oracle, Solaris  
 
           Designed and bootstrapped development of urban travel ticket management project for Otlis (transport operators consortium)  
+
+          <br/>
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
