@@ -48,9 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Carlos and I'm a software engineer. I've accumulted some experience in building scalable and resilient systems, from architecture to development and operations. 
+  Hi, my name's Carlos and I'm a software engineer. I've accumulated some experience in building scalable and resilient systems, from architecture to development and operations. 
 
-  I have also experience in leading teams, seting up processes and developing a healthy engineering culture.
+  I have also experience in leading teams, setting up processes and developing a healthy engineering culture.
 
 
 content:
@@ -66,12 +66,12 @@ content:
           <br/>
 
           ## May 2021 - Present | Head of Engineering
-          Working on the recruitment, enablement and practices definiton of technical roles  
+          Working on the recruitment, enablement and practices definition of technical roles  
 
           <br/>
 
           ## Jan 2020 - May 2021 | Program Tech Lead
-          Worked, as a member of the architecture board, in defining a target architecture to allow unifying and scalling the marketing and sales platforms  
+          Worked, as a member of the architecture board, in defining a target architecture to allow unifying and scaling the marketing and sales platforms  
           Supported the recruitment process for tech roles and the definition of new roles
 
           <br/>
@@ -84,7 +84,7 @@ content:
           <br/>
 
           ## Sep 2017 - Dec 2018 | Software Engineer
-          Refactored a central data microservice to allow rule based configurations, highly reducing the ammount of maintenance work and time to reflect upstream changes  
+          Refactored a central data microservice to allow rule based configurations, highly reducing the amount of maintenance work and time to reflect upstream changes  
 
 
       - layout: left
@@ -107,7 +107,7 @@ content:
           ## Oct 2003 - Dec 2010 | Software Engineer
           Worked as part of the Integration team in designing and developing a SOA middleware platform supporting business applications (home banking, mobile apps, front office), based on JEE and WebServices  
           Developed code generation tools for legacy systems (CICS, SAP/R3) JCA access  
-          Led the transformation (refactoring, development methodologies, team setup) of a BPM Platform with critical stability and maintainability issues, allowing new processes to be devoloped on top  
+          Led the transformation (refactoring, development methodologies, team setup) of a BPM Platform with critical stability and maintainability issues, allowing new processes to be developed on top  
 
       - layout: left
         title: Link Consulting
@@ -116,7 +116,7 @@ content:
           ## Apr 2001 - Oct 2003 | Consultant
           Development of B2B marketplaces, extending base Ariba (JEE based) funcionalities  
           Migration of some vodafone.pt portals (Vizzavi, Yorn) - Vignette, Oracle, Solaris  
-          Designed and bootstraped development of urban travel ticket management project for Otlis (transport operators consortium)  
+          Designed and bootstrapped development of urban travel ticket management project for Otlis (transport operators consortium)  
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
