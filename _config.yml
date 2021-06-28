@@ -57,12 +57,14 @@ content:
 
           ## Jan 2020 - May 2021 | Program Tech Lead
           Worked, as a member of the architecture board, in defining a target architecture to allow unifying and scaling the marketing and sales platforms  
+
           Supported the recruitment process for tech roles and the definition of new roles
 
           <br/>
 
           ## Jan 2019 - Dec 2019 | Software Architect
           Designed the architecture and supported the implementation of a vehicle overview component included in the landing page of all Mercedes-Benz websites  
+
           Enabled the adoption of new practices for microservices development in several products, eg Kotlin as the core language, reactive patterns, trunk based development  
 
 
@@ -81,24 +83,32 @@ content:
 
           ## Jan 2011 - Sep 2017 | Team Manager
           Refactored development and CI/CD toolchain for the Integration team using maven, nexus, jenkins and gitlab  
+
           Built a configuration management pipeline using git, ansible and wsadmin to allow a reproduceable and consistent infra-structure  
+
           Built a deployment pipeline to allow blue-green deployments, highly increasing the frequency of deployments  
+
           Steered the creation of a provisioning portal for integration services, while automating some of the boilerplate tasks, using django, angular and x3270  
+
           Replaced legacy code generation tool for mainframe based services to improve maintainability, using antlr, python and jinja2  
 
           <br/>
 
           ## Oct 2003 - Dec 2010 | Software Engineer
           Worked as part of the Integration team in designing and developing a SOA middleware platform supporting business applications (home banking, mobile apps, front office), based on JEE and WebServices  
+
           Developed code generation tools for legacy systems (CICS, SAP/R3) JCA access  
+
           Led the transformation (refactoring, development methodologies, team setup) of a BPM Platform with critical stability and maintainability issues, allowing new processes to be developed on top  
 
       - layout: top-middle
         title: Link Consulting
         description: | # this will include new lines to allow paragraphs
           ## Apr 2001 - Oct 2003 | Consultant
-          Development of B2B marketplaces, extending base Ariba (JEE based) funcionalities  
-          Migration of some vodafone.pt portals (Vizzavi, Yorn) - Vignette, Oracle, Solaris  
+          Developed functionalities for B2B marketplaces, based on Ariba Marketplace  
+
+          Worked on the migration of some vodafone.pt portals (Vizzavi, Yorn) - Vignette, Oracle, Solaris  
+
           Designed and bootstrapped development of urban travel ticket management project for Otlis (transport operators consortium)  
 
   - title: Education # Title for the section
