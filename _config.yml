@@ -57,7 +57,7 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: mercedes-benz.io
         link: mercedes-benz.io
         quote: >
@@ -87,7 +87,7 @@ content:
           Refactored a central data microservice to allow rule based configurations, highly reducing the amount of maintenance work and time to reflect upstream changes  
 
 
-      - layout: left
+      - layout: top-middle
         title: Caixa Geral de Depósitos
         link: cgd.pt
         quote: >
@@ -109,7 +109,7 @@ content:
           Developed code generation tools for legacy systems (CICS, SAP/R3) JCA access  
           Led the transformation (refactoring, development methodologies, team setup) of a BPM Platform with critical stability and maintainability issues, allowing new processes to be developed on top  
 
-      - layout: left
+      - layout: top-middle
         title: Link Consulting
         link: link.pt
         description: | # this will include new lines to allow paragraphs
@@ -121,7 +121,7 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: Instituto Superior Técnico, Lisbon
         caption: 1995-2001
         description: | # this will include new lines to allow paragraphs
