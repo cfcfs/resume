@@ -121,9 +121,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Instituto Superior Técnico, Lisbon
+        title: M.Sc. Information Systems and Computer Engineering
         caption: 1995-2001
-        sub_title: M.Sc. Information Systems and Computer Engineering
+        sub_title: Instituto Superior Técnico, Lisbon
 
   - title: Tech Stack
     layout: text
