@@ -9,7 +9,6 @@ version: 2
 name: Carlos Ré
 title: Software Engineer
 email: carlos.santos.re@gmail.com
-# website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -17,26 +16,13 @@ darkmode: false
 # Social links
 # twitter_username: facespics
 github_username:  cfcfs
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: jameswgrant
 linkedin_username: carlosre
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
 - title: Hackerrank
   icon: fas fa-globe
   url: https://www.hackerrank.com/cfcfs
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -59,7 +45,6 @@ content:
     content:
       - layout: top-middle
         title: mercedes-benz.io
-        link: mercedes-benz.io
         quote: >
           Building a global digital marketing and sales channel for Mercedes-Benz
         description: | # this will include new lines to allow paragraphs
@@ -89,7 +74,6 @@ content:
 
       - layout: top-middle
         title: Caixa Geral de Depósitos
-        link: cgd.pt
         quote: >
           Developing and operating of a highly available, mission critical integration layer around core bank systems
         description: | # this will include new lines to allow paragraphs
@@ -111,7 +95,6 @@ content:
 
       - layout: top-middle
         title: Link Consulting
-        link: link.pt
         description: | # this will include new lines to allow paragraphs
           ## Apr 2001 - Oct 2003 | Consultant
           Development of B2B marketplaces, extending base Ariba (JEE based) funcionalities  
@@ -124,8 +107,7 @@ content:
       - layout: top-middle
         title: Instituto Superior Técnico, Lisbon
         caption: 1995-2001
-        description: | # this will include new lines to allow paragraphs
-          M.Sc. Information Systems and Computer Engineering
+        sub_title: M.Sc. Information Systems and Computer Engineering
 
   - title: Tech Stack
     layout: text
