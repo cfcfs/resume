@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Software engineer with 15 years of experience. Interested in challenging problems and broading technical knowledge.
+  Software engineer with 20 years of experience in building scalable and resilient systems  
 
 
 content:
@@ -59,7 +59,7 @@ content:
         title: mercedes-benz.io
         link: mercedes-benz.io
         quote: >
-          Building a digital marketing and sales channel for Mercedes-Benz
+          Building a global digital marketing and sales channel for Mercedes-Benz
         description: | # this will include new lines to allow paragraphs
           <br/>
 
